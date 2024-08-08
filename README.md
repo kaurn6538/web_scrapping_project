@@ -17,6 +17,7 @@ This project demonstrates how to scrape data from a real website using Python, s
 
 ## Run the script:
 Scraping data from real website +Pandas.ipynb
+
 Check the output: The data will be saved as a CSV file in the specified directory.
 
 ## Code Overview
