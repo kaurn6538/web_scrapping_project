@@ -6,14 +6,14 @@ This project demonstrates how to scrape data from a real website using Python, s
 ## Clone the repository:
 
 *     git clone https://github.com/kaurn6538/web_scraping_project.git
-*     cd web-scraping-project
+*     cd web_scraping_project
 
 ## Install the required Python libraries:
 
 *     pip install requests beautifulsoup4 pandas
 
 ## Usage
-Specify the URL: The script uses the URL of the webpage containing the table data.
+ URL: The script uses the url:'https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue' of the webpage containing the table data.
 
 ## Run the script:
 python scraper.py
@@ -37,8 +37,8 @@ A list comprehension is used to clean and store these headings.
 
 ## Extracting Row Data:
 Each row's data is extracted, cleaned, and appended to the pandas DataFrame.
-Exporting to CSV:
 
+## Exporting to CSV:
 The DataFrame is exported to a CSV file using df.to_csv().
 
 ## Output
