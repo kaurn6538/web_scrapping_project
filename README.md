@@ -16,7 +16,7 @@ This project demonstrates how to scrape data from a real website using Python, s
  URL: The script uses the url:'https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue' of the webpage containing the table data.
 
 ## Run the script:
-python scraper.py
+Scraping data from real website +Pandas.ipynb
 Check the output: The data will be saved as a CSV file in the specified directory.
 
 ## Code Overview
