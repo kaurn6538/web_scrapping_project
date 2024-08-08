@@ -1,14 +1,6 @@
 ## Web Scraping Project
 This project demonstrates how to scrape data from a real website using Python, specifically the BeautifulSoup and Requests libraries. The scraped data is processed into a pandas DataFrame and then exported to a CSV file.
 
-## Table of Contents
-Installation
-Usage
-Project Structure
-Code Overview
-Output
-
-
 ## Installation
 
 ## Clone the repository:
